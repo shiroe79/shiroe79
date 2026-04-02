@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F9D58,50:F4B400,100:DB4437&height=200&section=header&text=Selam%20Yabets&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F9D58,50:F4B400,100:DB4437&height=200&section=header&text=Hi%20Biny&fontSize=40&fontColor=ffffff" />
 
 # 👋 ሰላም | Hello, I'm Biny
 
