@@ -1,9 +1,4 @@
 # 👋 Hello
-
-◇ ◆ ◇ ◆ ◇ ◆ ◇ ◆
-
-![Made in Japan](https://img.shields.io/badge/Made%20in-Japan-ffffff?style=for-the-badge)
-
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## 🚀 About Me
