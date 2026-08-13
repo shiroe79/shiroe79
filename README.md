@@ -1,6 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:d60000,100:d60000&height=200&section=header&text=👋 %E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF | Hello%20&fontSize=40&fontColor=ffffff" />
-
-# 👋 こんにちは | Hello
+# 👋 Hello
 
 ◇ ◆ ◇ ◆ ◇ ◆ ◇ ◆
 
@@ -13,8 +11,6 @@
 - Full Name: Benji
 - Role: Backend dev
 Backend, db, endpoints, routes, api ....
-
-⚪ JAPAN ⚪
 
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Shiroe79&theme=tokyonight&show_icons=true)
